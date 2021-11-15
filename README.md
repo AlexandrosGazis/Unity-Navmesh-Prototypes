@@ -14,3 +14,5 @@ Check out each version using the following links:
 * _Version 2_: https://agazis.itch.io/navmesh-version-2
 * _Version 3_: https://agazis.itch.io/navmesh-version-3
 * _Version 4_: https://agazis.itch.io/navmesh-version-4
+
+* _Unity Projects (Google Drive link)_: https://tinyurl.com/agazis-Unity-Projects (Unity Hub>>Projects>>Add and select a folder: v1,v2,v3,v4)
